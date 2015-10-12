@@ -1,7 +1,7 @@
 {
-  "name": "angular-todo",
+  "name": "mean-app-skelet",
   "version": "0.0.1",
-  "description": "Simple angular todo application",
+  "description": "Simple skelet for MEAN Application",
   "scripts": {
     "start": "nodemon ./app/bin/www"
   },

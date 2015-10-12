@@ -1,6 +1,6 @@
 {
-  "name": "Angular TODO app",
-  "description": "Simple angular todo application",
+  "name": "mean-app-skelet",
+  "description": "Simple skelet for MEAN Application",
   "version": "0.0.1",
   "dependencies": {
     "angular": "latest",
